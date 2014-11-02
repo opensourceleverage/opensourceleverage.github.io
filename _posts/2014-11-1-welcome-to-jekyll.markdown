@@ -7,13 +7,15 @@ categories: jekyll update
 
 I just finished getting Jekyl to work on my Bitnami Ruby stack installation.  
 
+[bitnami]  
+
 Jekyll creates static sites from your markdown text.  
 
 [jekyll on windows]
 
 [jekyll on windows]: http://jekyll-windows.juthilo.com/
 
-
+[bitnami]: http://wiki.bitnami.com/Infrastructure_Stacks/BitNami_Ruby_Stack
 
 
 
