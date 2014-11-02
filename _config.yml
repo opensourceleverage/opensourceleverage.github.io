@@ -9,7 +9,7 @@ name: OpenSourceLeverage
 description: Software Consulting Firm
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/opensourceleverage/opensourceleverage.github.io/master/images/logo.png
+avatar: ~/images/first-post.png
 
 #
 # Flags below are optional
